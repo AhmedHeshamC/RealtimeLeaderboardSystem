@@ -159,12 +159,21 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## License
-
-MIT
-
----
-
 ## Project URLs
 - GitHub: [(https://github.com/AhmedHeshamC/RealtimeLeaderboardSystem)]
 - https://roadmap.sh/projects/realtime-leaderboard-system
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
